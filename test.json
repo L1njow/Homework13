@@ -1,0 +1,22 @@
+{
+  "name": "Test",
+  "username": "Test",
+  "email": "Test",
+  "address": {
+    "street": "Test",
+    "suite": "Test",
+    "city": "Test",
+    "zipcode": "Test",
+    "geo": {
+      "lat": "Test",
+      "lng": "Test"
+    }
+  },
+  "phone": "Test",
+  "website": "Test",
+  "company": {
+    "name": "Test",
+    "catchPhrase": "Test",
+    "bs": "Test"
+  }
+}
